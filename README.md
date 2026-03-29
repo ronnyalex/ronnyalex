@@ -16,8 +16,6 @@ M.Sc. in Electrical Engineering, with two years at École Centrale Paris.
 
 Licensed teacher in Physics and Mathematics.
 
-Additional 60 hp in computer science and programming, including databases, web development, JavaScript, Python, and Linux web services (Uppsala University, Umeå University).
-
 ---
 
 ### 📊 GitHub Stats
