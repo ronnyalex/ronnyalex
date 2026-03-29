@@ -2,7 +2,7 @@
 
 🎉 **Current work**
 
-Full stack developer and DevOps based in Stockholm, Sweden.
+Full stack developer and DevOps, at [Teachiq](https://teachiq.com/en), based in Stockholm, Sweden.
 
 ⚙️ Backend: Laravel (PHP), JavaScript/TypeScript.
 
@@ -12,7 +12,7 @@ Full stack developer and DevOps based in Stockholm, Sweden.
 
 📚 **Education**
 
-M.Sc. in Electrical Engineering, with a year at École Centrale Paris.
+M.Sc. in Electrical Engineering, with two years at École Centrale Paris.
 
 Licensed teacher in Physics and Mathematics.
 
