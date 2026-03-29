@@ -14,13 +14,7 @@ Full stack developer and DevOps, at [Teachiq](https://teachiq.com/en), based in 
 
 M.Sc. in Electrical Engineering, with two years at École Centrale Paris.
 
-Licensed teacher in Physics and Mathematics.
-
----
-
-### 📊 GitHub Stats
-
-![Ronny's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronnyalex&show_icons=true&theme=dark)
+Licensed high school teacher in Physics and Mathematics.
 
 ---
 
