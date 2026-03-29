@@ -1,41 +1,28 @@
 ## Hi there, I'm Ronny 👋
 
-### 🚀 About Me
-- 💼 Developer based in Sweden
-- - 🌱 Always learning and building new things
-  - - 📫 Reach me at: skolaronnyalex@gmail.com
-   
-    - ---
+🎉 **Current work**
 
-    ### 🛠️ Tech Stack
+Full stack developer and DevOps based in Stockholm, Sweden.
 
-    **Languages & Frameworks**
-    - 🐍 Python
-    - - 🟨 JavaScript
-      - - 💚 Vue.js
-       
-        - **Tools & Platforms**
-        - - 🐙 Git & GitHub
-          - - 🖥️ Linux / Terminal
-           
-            - ---
+⚙️ Backend: Laravel (PHP), JavaScript/TypeScript.
 
-            ### 📂 Featured Projects
+🎨 UI: Vue.js.
 
-            - 🎥 [record-computer](https://github.com/ronnyalex/record-computer) — Unified screen recording system with OCR and transcription
-            - - 🖼️ [draw-on-image](https://github.com/ronnyalex/draw-on-image) — Draw on an image
-              - - 📦 [wrap-stuff](https://github.com/ronnyalex/wrap-stuff) — JavaScript utilities
-               
-                - ---
+🛠️ Tools & Platforms: Git & GitHub, Linux / Terminal.
 
-                ### 📊 GitHub Stats
+📚 **Education**
 
-                ![Ronny's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronnyalex&show_icons=true&theme=dark)
+M.Sc. in Electrical Engineering, with a year at École Centrale Paris.
 
-                ---
+Licensed teacher in Physics and Mathematics.
 
-                ### 🤝 Connect with me
+---
 
-                [![GitHub](https://img.shields.io/badge/GitHub-ronnyalex-181717?style=flat&logo=github)](https://github.com/ronnyalex)
-                [![Email](https://img.shields.io/badge/Email-skolaronnyalex@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:skolaronnyalex@gmail.com)
-                
+### 📊 GitHub Stats
+
+![Ronny's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronnyalex&show_icons=true&theme=dark)
+
+---
+
+[![GitHub](https://img.shields.io/badge/GitHub-ronnyalex-181717?style=flat&logo=github)](https://github.com/ronnyalex)
+[![Email](https://img.shields.io/badge/Email-skolaronnyalex@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:skolaronnyalex@gmail.com)
