@@ -16,6 +16,10 @@ M.Sc. in Electrical Engineering, with two years at École Centrale Paris.
 
 Licensed high school teacher in Physics and Mathematics.
 
+🏃 **Outside of work**
+
+Running marathons.
+
 ---
 
 [![GitHub](https://img.shields.io/badge/GitHub-ronnyalex-181717?style=flat&logo=github)](https://github.com/ronnyalex)
